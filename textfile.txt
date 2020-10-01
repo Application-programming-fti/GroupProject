@@ -1,8 +1,0 @@
-https://github.com/Application-programming-fti/Project.git
-## Table of contents
-*[image file](#imagefile)
-*[mp3file]{#mp3file)
-*[phpfile](#phpfile)
-
-##General info
-This project is GitHub assignment
